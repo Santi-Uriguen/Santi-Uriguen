@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React.js
 - 📫 santiuriguen@gmail.com
--My Pages:
+- My Pages:
  📫 https://santi-uriguen.github.io/store-uriguen-santiago/ 
  📫 https://santi-uriguen.github.io/Proyecto-Gifos
  📫 https://santi-uriguen.github.io/AVRegionales/
